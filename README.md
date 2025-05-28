@@ -20,3 +20,8 @@ Este repositorio contiene la resolución de un conjunto de ejercicios de program
 - ✅ Programación orientada a objetos: clases, métodos, atributos, encapsulamiento.
 - ✅ Uso de módulos estándar (`functools`, `math`, etc.).
 - ✅ Buenas prácticas: comentarios, código modular y estructurado.
+
+## ▶️ Cómo ejecutar el proyecto
+
+1. Asegúrate de tener Python 3 instalado.
+2. Descarga el archivo y ejecutalo kata a kata
